@@ -2,9 +2,17 @@
 
 A demo application to illustrate how Filament Admin works.
 
-![Filament Demo](https://github.com/filamentphp/demo/assets/171715/899161a9-3c85-4dc9-9599-13928d3a4412)
+![Dashboard](https://github.com/lordjack/palestra-filament-demo/assets/6691621/7e58fe63-d98b-4dbb-89f2-9eb846019791)
 
-[Open in Gitpod](https://gitpod.io/#https://github.com/filamentphp/demo) to edit it and preview your changes with no setup required.
+## Usando o Form Builder para criar formulários
+![image](https://github.com/lordjack/palestra-filament-demo/assets/6691621/786a14da-9978-428c-9e2d-e190c8a672da)
+
+
+## Usando o Table Builder para listagem de dados
+![Table Build](https://github.com/lordjack/palestra-filament-demo/assets/6691621/dd4d8cbc-0aa7-4f1f-82b6-4a2856fb7804)
+
+
+[Open in Gitpod](https://gitpod.io/#https://github.com/lordjack/palestra-filament-demo) to edit it and preview your changes with no setup required.
 
 ## Installation
 
