@@ -5,7 +5,8 @@ A demo application to illustrate how Filament Admin works.
 ![Dashboard](https://github.com/lordjack/palestra-filament-demo/assets/6691621/7e58fe63-d98b-4dbb-89f2-9eb846019791)
 
 ## Usando o Form Builder para criar formulários
-![image](https://github.com/lordjack/palestra-filament-demo/assets/6691621/786a14da-9978-428c-9e2d-e190c8a672da)
+![Form Builder](https://github.com/lordjack/palestra-filament-demo/assets/6691621/621638da-6419-4a42-99ed-780ada770d55)
+
 
 
 ## Usando o Table Builder para listagem de dados
