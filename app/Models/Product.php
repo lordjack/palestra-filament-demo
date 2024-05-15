@@ -11,11 +11,6 @@ class Product extends Model
 
     protected $table = 'products';
 
-     /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
     protected $fillable = [
         'name',
         'description',
@@ -24,11 +19,6 @@ class Product extends Model
         'active',
     ];
 
-      /**
-     * Get the attributes that should be cast.
-     *
-     * @return array<string, string>
-     */
     protected function casts(): array
     {
         return [
